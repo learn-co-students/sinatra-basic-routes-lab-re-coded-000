@@ -5,7 +5,7 @@ class App < Sinatra::Base
   "Hello, World!"
 end
 get '/name' do
-"My name is Fatima"
+"My name is Fatima Mohammad"
 end
 get '/hometown' do
 "My hometown is Basra-Iraq"
